@@ -10,3 +10,10 @@ The jar package reflects the graded version of the project
 Run with:  
 
     java -jar PokerHand.jar
+
+## The other README
+
+README.txt (notice the .txt extension) is included as the additional 
+README that was included when this project was submitted for grading. 
+It mainly contains a series of development and testing notes and 
+answers some questions that were required for CSC 240. 
